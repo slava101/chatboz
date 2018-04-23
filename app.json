@@ -1,0 +1,17 @@
+{
+  "name": "chatboz",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "e.g. heroku/node.js"
+    }
+  ]
+}
